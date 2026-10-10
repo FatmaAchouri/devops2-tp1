@@ -43,6 +43,21 @@ export default function Home() {
             <li><a href="#fonctionnement">Fonctionnement</a></li>
             <li><a href="#technique">Technique</a></li>
           </ul>
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
           <a className="btn btn-primary" href="#commencer">Commencer</a>
         </div>
       </nav>
