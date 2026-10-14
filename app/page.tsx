@@ -1,6 +1,6 @@
 import { Fragment } from "react";
 import DevOpsLoop from "@/components/DevOpsLoop";
-
+<Modeles />
 const features = [
   { title: "Éditeur simple", text: "Questions à choix, réponses libres et barèmes." },
   { title: "Partage par lien", text: "Un lien ou un QR code suffit pour répondre." },
